@@ -1,0 +1,9 @@
+{
+  "name": "slide-buzz-skin",
+  "version": "0.1.0",
+  "description": "4He SlideBuzz skin",
+  "dependencies": {
+    "cheerio" : ">=0.19.0 <1.0.0"
+  },
+  "private" : true
+}
