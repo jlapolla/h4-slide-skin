@@ -1,6 +1,3 @@
-#!/usr/local/bin/node
-'use strict';
-
 var md5 = require('md5');
 
 function PathConverter(){};
@@ -16,3 +13,5 @@ P.toDistPath = function(srcPath){
     }
   }
 };
+
+module.exports = PathConverter;
